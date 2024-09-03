@@ -61,7 +61,7 @@ const Contacts =()=>{
         >
             <DataGrid 
                     localeText={{
-                        toolbarDensity: 'Density',
+                        toolbarDensity: 'Size',
                         toolbarDensityLabel: 'Size',
                         toolbarDensityCompact: 'Small',
                         toolbarDensityStandard: 'Medium',
