@@ -1,7 +1,7 @@
 {
   "name": "react-admin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/anilkr21/reactapp-finance",
   "dependencies": {
     "@emotion/react": "^11.13.3",
