@@ -19,7 +19,7 @@ const Topbar=()=>{
 
         <Box
          display="flex" 
-         backgroundColor={colors.primary[400]} 
+         backgroundColor={colors.primary[900]} 
          borderRadius='3px'>
           <InputBase
            sx={{
